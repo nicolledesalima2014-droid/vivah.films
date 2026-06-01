@@ -459,7 +459,7 @@ footer { background:var(--black); border-top:1px solid rgba(255,255,255,0.05); p
         <div class="m-name">Nicolle</div>
         <div class="m-role">Diretora & Cinegrafista</div>
         <p class="m-bio">Apaixonada por capturar emoções reais. Especialista em luz natural e narrativa visual cinematográfica.</p>
-        <a href="https://instagram.com/nicolledslila" target="_blank" class="m-ig">📸 @nicolledslila</a>
+        <a href="https://instagram.com/nicolledslima" target="_blank" class="m-ig">📸 @nicolledslila</a>
       </div>
     </div>
     <div class="member reveal">
